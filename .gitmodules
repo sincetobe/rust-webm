@@ -1,3 +1,3 @@
 [submodule "src/sys/libwebm"]
 	path = src/sys/libwebm
-	url = https://chromium.googlesource.com/webm/libwebm
+	url = https://chromium.googlesource.com/webm/libwebm/+/d411c8668dc226d9a3c7433c560dedfcc46fc69c
