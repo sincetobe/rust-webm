@@ -1,0 +1,3 @@
+[submodule "src/sys/libwebm"]
+	path = src/sys/libwebm
+	url = https://github.com/webmproject/libwebm
